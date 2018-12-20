@@ -10,5 +10,5 @@ for i in range(0,11,2):
 
 # Stepping by 10
 
-for i in range(0,11,10):
-    print i
+# for i in range(0,11,10):
+#     print i
